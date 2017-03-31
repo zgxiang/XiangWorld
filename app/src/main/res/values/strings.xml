@@ -2,15 +2,14 @@
     <string name="app_name">World</string>
 
     <!-- Strings related to login -->
-    <string name="prompt_email">Email</string>
-    <string name="prompt_password">Password (optional)</string>
-    <string name="action_sign_in">Sign in or register</string>
-    <string name="action_sign_in_short">Sign in</string>
-    <string name="error_invalid_email">This email address is invalid</string>
-    <string name="error_invalid_password">This password is too short</string>
-    <string name="error_incorrect_password">This password is incorrect</string>
-    <string name="error_field_required">This field is required</string>
-    <string name="permission_rationale">"Contacts permissions are needed for providing email
-        completions."
+    <string name="prompt_email">电子邮件</string>
+    <string name="prompt_password">密码 (可选)</string>
+    <string name="action_sign_in">登录或注册</string>
+    <string name="action_sign_in_short">登录</string>
+    <string name="error_invalid_email">这个邮件地址是无效的</string>
+    <string name="error_invalid_password">密码太短了</string>
+    <string name="error_incorrect_password">这个密码是不正确的</string>
+    <string name="error_field_required">这个字段是必需的</string>
+    <string name="permission_rationale">"接触权限需要提供电子邮件完成。"
     </string>
 </resources>
